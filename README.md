@@ -17,7 +17,7 @@
 <div> 
   <a href="https://www.instagram.com/arthurparente_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/gEpNczA8" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "https://mail.google.com/mail/u/0/#inbox?compose=CllgCJqXPtKtlMmMJvkfgFnMjCngNxzpRlnrzJrZKbRsNQbCkTlttldpFqDhzhMmLjhdFBQXrKL"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=arthurparente26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
