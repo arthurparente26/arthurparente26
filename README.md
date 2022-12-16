@@ -1,7 +1,5 @@
-## Oie eu sou o Arthur, estudante e futuro programador back-end!
-<div align="center">
-  <a href="https://github.com/arthurparente26">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurparente26&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+## Olá meu nome é Arthur,sou estudante e futuro programador back-end!
+<div align="23%">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurparente26&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
