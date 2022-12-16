@@ -1,4 +1,4 @@
-## Olá meu nome é Arthur,sou estudante e futuro programador back-end!
+## Olá meu nome é Arthur,sou estudante e futuro programador Back-End!
 <div align="23%">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurparente26&layout=compact&langs_count=7&theme=dracula"/>
 </div>
