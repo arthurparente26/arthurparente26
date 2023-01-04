@@ -23,5 +23,3 @@
  <a href="https://discord.gg/gEpNczA8" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
 [![LinkedIn](https://img.shields.io/badge/linkedin-836FFF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-soares-parente-21099b212/)
   <a href = "https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=arthurparente26@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
- ![Snake animation](https://github.com/arthurparente26/arthurparente26/blob/output/github-contribution-grid-snake.svg)
