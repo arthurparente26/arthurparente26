@@ -1,4 +1,5 @@
-### Olá pessoal! Eu sou o Arthur Parente 😄🚀 
+### Olá, muito prazer !
+Eu sou o Arthur Parente 😄🚀 
 
 
 <div>
