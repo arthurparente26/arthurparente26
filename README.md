@@ -1,4 +1,4 @@
-### Olá, muito prazer! Eu sou o Arthur Parente estudante e programador Back-End Java 😄🚀 
+### Olá, eu sou o Arthur Parente estudante e programador Back-End Java 😄🚀 
 
 
 <div>
