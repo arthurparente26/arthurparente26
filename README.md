@@ -1,5 +1,5 @@
 <div align = "center">
-  <h2>Olá eu sou o Arthur , estudante de Engenharia de Softwware e entusiasta em Cibersegurança</h2>
+  <h2>Olá eu sou o Arthur , estudante de Engenharia de Softwware e entusiasta de Cibersegurança</h2>
 </div>
 
 
